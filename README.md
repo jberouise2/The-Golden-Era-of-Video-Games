@@ -51,6 +51,7 @@ Your search will involve joining datasets and comparing results with set theory.
 |num_games| Number of games released that year |`int`|
 |avg_critic_score| Average score of all the games ratings for the year |`float`|  
 
-# `Solution`
+# `Solution`  
+[sql_solution](https://github.com/jberouise2/The-Golden-Era-of-Video-Games/blob/9df6b42cded6bc20d8c9444e5c3ab43404b6102b/notebook.ipynb)
 
 
